@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="XE Conversion Rate Suite">
+	<listeners>
+		<listener class-name="org.xe.listeners.ExtentTestListener"></listener>
+		<listener class-name="org.xe.listeners.AllureTestListener"></listener>
+	</listeners>
+	<test name="Demo Test">
+		<packages>
+			<package name="org.xe.conversion.uat.testcases.*" />
+		</packages>
+	</test>
+</suite>
