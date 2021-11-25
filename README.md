@@ -31,4 +31,4 @@
 
 3) Allure - https://docs.qameta.io/allure/#_installing_a_commandline
 
-# 4) Please make sure \CurrencyConversion folder is not renamed while download or during the extraction. Otherwise, compilation will be failed
+4) Please make sure \CurrencyConversion folder is not renamed while download or during the extraction. Otherwise, compilation will be failed
