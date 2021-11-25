@@ -4,14 +4,13 @@
 
 2) Go to the folder \CurrencyConversion using cmd.exe
 
-3) Execute the command - # mvn test clean     
+3) Execute the command - mvn test clean     
+   * Execution will starts in chrome
 
-3A) execution will starts in chrome
-
-4) Execution Reports in form of Extent HTML report in the folder - \CurrencyConversion\TestReport
+4) Execution Reports is in form of Extent HTML report in the folder - \CurrencyConversion\TestReport
 
 5) Also, Allure report available in the folder - \CurrencyConversion\allure-results
-    * To View Allure HTML Report - Open the \CurrencyConversion in cmd.exe
+    * To view Allure HTML report - Open the \CurrencyConversion folder in cmd.exe
     * And, execute the cmd allure serve
 
 6) Note, CurrencyConversion\src\main\resources contains below specs
@@ -20,7 +19,8 @@
     * config.properties - Holds url, browser, timeout parameters
     * Log4j - Sysout is being formatted
     * testng.xml - hold the test suite, listeners parameters
-8) In default, verifyCurrencyConversionInputDataSet.xlsx is referred to execute verification of currency conversion
+    
+7) In default, verifyCurrencyConversionInputDataSet.xlsx is referred to execute verification of currency conversion
 
 # Prereqs
 1) TestNG - https://testng.org/doc/eclipse.html
