@@ -11,10 +11,8 @@
 4) Execution Reports in form of Extent HTML report in the folder - \CurrencyConversion\TestReport
 
 5) Also, Allure report available in the folder - \CurrencyConversion\allure-results
-
-5A) To View Allure HTML Report - Open the \CurrencyConversion in cmd.exe
-
-5B) And, execute the cmd allure serve
+    * To View Allure HTML Report - Open the \CurrencyConversion in cmd.exe
+    * And, execute the cmd allure serve
 
 6) Note, CurrencyConversion\src\main\resources contains below specs
     * InputDataSets - Holds test data for the execution
