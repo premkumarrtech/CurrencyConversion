@@ -25,6 +25,10 @@
 8) In default, verifyCurrencyConversionInputDataSet.xlsx is referred to execute verification of currency conversion
 
 # Prereqs
-TestNG - https://testng.org/doc/eclipse.html
-Maven - https://maven.apache.org/download.cgi
-Allure - https://docs.qameta.io/allure/#_installing_a_commandline
+1) TestNG - https://testng.org/doc/eclipse.html
+
+2) Maven - https://maven.apache.org/download.cgi
+
+3) Allure - https://docs.qameta.io/allure/#_installing_a_commandline
+
+4) Please make sure \CurrencyConversion folder is not renamed while download or during the extraction. Otherwise, compliation will be failed
