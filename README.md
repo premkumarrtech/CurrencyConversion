@@ -20,7 +20,7 @@
     * InputDataSets - Holds test data for the execution
     * chromedriver.exe - selenium chrome driver
     * config.properties - Holds url, browser, timeout parameters
-    * Log4j - Sysout is be formatted
+    * Log4j - Sysout is being formatted
     * testng.xml - hold the test suite, listeners parameters
 8) In default, verifyCurrencyConversionInputDataSet.xlsx is referred to execute verification of currency conversion
 
