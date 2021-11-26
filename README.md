@@ -4,7 +4,7 @@
 
 2) Go to the folder \CurrencyConversion using cmd.exe
 
-3) Execute the command - mvn test clean     
+3) Execute the command - mvn clean test     
    * Execution will starts in chrome
 
 4) Execution Reports is in form of Extent HTML report in the folder - \CurrencyConversion\TestReport
